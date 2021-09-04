@@ -1041,3 +1041,9 @@ h4 {
     }
 }
 
+
+blockquote {
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+}
