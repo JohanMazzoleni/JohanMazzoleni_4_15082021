@@ -1047,3 +1047,8 @@ blockquote {
     font-weight: bold;
     color: black;
 }
+
+figcaption
+{
+    color: black;
+}
